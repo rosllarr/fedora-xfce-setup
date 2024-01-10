@@ -1,0 +1,6 @@
+.vscode
+*.rpm
+kube*
+linux*
+helm*
+minikube*

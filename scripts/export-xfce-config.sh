@@ -1,0 +1,1 @@
+cp -a ~/.config/xfce4/ ../home/skel/.config/
