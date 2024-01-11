@@ -197,6 +197,17 @@ if [ ! -f /etc/systemd/system/disable-pcspkr.service ]; then
 	sudo systemctl enable --now disable-pcspkr.service
 fi
 
+#######################
+# set keyboard layout #
+#######################
+sudo cp $etc_skel/X11/xorg.conf.d/00-keyboard.conf /etc/X11/xorg.conf.d/00-keyboard.conf
+
+################
+# set touchpad #
+################
+sudo cp $etc_skel/X11/xorg.conf.d/03-touchpad.conf /etc/X11/xorg.conf.d/03-touchpad.conf
+
+
 ###############
 # tmux config #
 ###############
