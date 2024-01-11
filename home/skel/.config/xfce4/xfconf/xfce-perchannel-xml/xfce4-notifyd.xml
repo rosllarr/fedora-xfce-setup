@@ -6,6 +6,7 @@
     <property name="known_applications" type="array">
       <value type="string" value="org.freedesktop.problems.applet"/>
       <value type="string" value="org.xfce.xfdesktop"/>
+      <value type="string" value="seapplet"/>
       <value type="string" value="Xfce volume control"/>
       <value type="string" value="xfce4-power-manager"/>
       <value type="string" value="xfce4-settings-helper"/>
