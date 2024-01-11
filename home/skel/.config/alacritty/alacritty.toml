@@ -1,0 +1,4 @@
+import = ["/home/tie/.config/alacritty/themes/themes/challenger_deep.toml"]
+
+[shell]
+program = "/usr/bin/fish"

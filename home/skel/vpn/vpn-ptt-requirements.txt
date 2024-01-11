@@ -1,0 +1,4 @@
+openconnect-sso==0.7.3
+PyQt5==5.15.7
+PyQtWebEngine==5.15.6
+pipdeptree

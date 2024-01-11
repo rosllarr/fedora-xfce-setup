@@ -1,0 +1,7 @@
+host = hq.opsta.io
+port = 10443
+username = nutthawit
+password = nutthawit
+set-dns = 0
+pppd-use-peerdns = 0
+trusted-cert = 48eea479bcc8cb92fc95745f542247f999fdbcd00ab6deb113f00d37ff6f556d
