@@ -1,1 +1,1 @@
-cp -a ~/.config/xfce4/ ../home/skel/.config/
+cp -a ~/.config/xfce4/ $HOME/.dotfile/home/skel/.config/
