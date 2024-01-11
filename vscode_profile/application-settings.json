@@ -1,0 +1,8 @@
+{
+    "explorer.confirmDragAndDrop": false,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "workbench.startupEditor": "none",
+    "keyboard.dispatch": "keyCode"
+}
