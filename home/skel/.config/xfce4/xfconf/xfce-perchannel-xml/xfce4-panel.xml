@@ -44,10 +44,12 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="networkmanager applet"/>
         <value type="string" value="wi-fi network connection “nattawit_5g” active: nattawit_5g (63%)"/>
         <value type="string" value="xfce4-power-manager"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="TelegramDesktop"/>
         <value type="string" value="dnfdragora-updater"/>
         <value type="string" value="blueman"/>
       </property>
@@ -55,6 +57,7 @@
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="true"/>
+      <property name="known-players" type="string" value="firefox"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="notification-plugin"/>
