@@ -1,0 +1,5 @@
+#!/bin/sh
+
+xinput enable 'ELAN1200:00 04F3:309F Touchpad'
+xinput enable 'ETPS/2 Elantech Touchpad'
+xinput enable 'PS/2 Logitech Wheel Mouse'

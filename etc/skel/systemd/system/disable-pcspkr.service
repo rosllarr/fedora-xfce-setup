@@ -1,0 +1,9 @@
+[Unit]
+Description=Alway disable pcspkr
+
+[Service]
+ExecStart=rmmod pcspkr
+Type=simple
+
+[Install]
+WantedBy=default.target

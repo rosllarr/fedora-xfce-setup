@@ -1,0 +1,3 @@
+pipdeptree
+pip3-autoremove
+httpie
