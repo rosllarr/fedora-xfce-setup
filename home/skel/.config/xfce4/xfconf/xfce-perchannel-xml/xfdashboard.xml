@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfdashboard" version="1.0">
+  <property name="enable-animations" type="bool" value="false"/>
+</channel>
