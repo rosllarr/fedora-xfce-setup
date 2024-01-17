@@ -53,6 +53,8 @@
         <value type="string" value="xfce4-power-manager"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="vlc"/>
+        <value type="string" value="steam"/>
         <value type="string" value="TelegramDesktop"/>
         <value type="string" value="dnfdragora-updater"/>
         <value type="string" value="blueman"/>
@@ -61,7 +63,7 @@
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="true"/>
-      <property name="known-players" type="string" value="firefox"/>
+      <property name="known-players" type="string" value="firefox;vlc"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="notification-plugin"/>

@@ -16,7 +16,7 @@
         <property name="Y" type="double" value="1"/>
       </property>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="320"/>
+        <property name="X" type="int" value="290"/>
         <property name="Y" type="int" value="1440"/>
       </property>
     </property>
@@ -46,13 +46,13 @@
       <property name="RefreshRate" type="double" value="60.033005523373298"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
-      <property name="Primary" type="bool" value="true"/>
+      <property name="Primary" type="bool" value="false"/>
       <property name="Scale" type="empty">
         <property name="X" type="double" value="1"/>
         <property name="Y" type="double" value="1"/>
       </property>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="320"/>
+        <property name="X" type="int" value="290"/>
         <property name="Y" type="int" value="1440"/>
       </property>
     </property>
@@ -63,7 +63,7 @@
       <property name="RefreshRate" type="double" value="59.950550105254798"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
-      <property name="Primary" type="bool" value="false"/>
+      <property name="Primary" type="bool" value="true"/>
       <property name="Scale" type="empty">
         <property name="X" type="double" value="1"/>
         <property name="Y" type="double" value="1"/>

@@ -1,27 +1,15 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[561b5fe8-2582-4b92-90b6-239a0f5a9a06]
-row=5
-col=0
-
-[f49deeb7-b595-4ee3-a2e0-092e77319390]
-row=1
-col=0
-
-[a8936f97-6bae-4be1-bb46-e655a82b88ed]
+[Trash]
 row=0
 col=0
 
-[Trash]
-row=2
-col=0
-
 [/]
-row=3
+row=1
 col=0
 
 [/home/tie]
-row=4
+row=2
 col=0
 
