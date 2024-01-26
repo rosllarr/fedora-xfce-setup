@@ -86,6 +86,7 @@
       <property name="&lt;Shift&gt;&lt;Super&gt;b" type="string" value="telegram-desktop"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;r" type="string" value="thunar"/>
       <property name="&lt;Super&gt;Return" type="string" value="alacritty"/>
+      <property name="&lt;Super&gt;Escape" type="string" value="skippy-xd --expose"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
