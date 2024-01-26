@@ -2,10 +2,6 @@
 4.10.3+=true
 
 [SAMSUNG Android]
-row=1
-col=0
-
-[0123-4567]
 row=0
 col=0
 
