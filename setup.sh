@@ -228,3 +228,28 @@ if [ ! -f $node_version_file ]; then
     cd ~
 	fnm install
 fi
+
+#####################
+# install skippy-xd #
+#####################
+sudo dnf install -y \
+giflib-devel \
+libXcomposite-devel \
+libXrender-devel \
+libXft-devel \
+libjpeg-turbo-devel \
+libXdamage-devel \
+libXfixes-devel \
+libXinerama-devel \
+xorg-x11-server-devel \
+libX11-devel \
+zlib-devel
+
+skippy_xd_home=$HOME/.skippy-xd
+if [ ! -f $skippy_xd_home ]; then
+	git clone https://github.com/dreamcat4/skippy-xd.git $skippy_xd_home
+	cd $skippy_xd_home
+	make
+	make install
+fi
+
