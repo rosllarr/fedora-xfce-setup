@@ -246,7 +246,7 @@ libX11-devel \
 zlib-devel
 
 skippy_xd_home=$HOME/.skippy-xd
-if [ ! -f $skippy_xd_home ]; then
+if [ ! -d $skippy_xd_home ]; then
 	git clone https://github.com/dreamcat4/skippy-xd.git $skippy_xd_home
 	cd $skippy_xd_home
 	make
