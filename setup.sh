@@ -250,6 +250,9 @@ if [ ! -d $skippy_xd_home ]; then
 	git clone https://github.com/dreamcat4/skippy-xd.git $skippy_xd_home
 	cd $skippy_xd_home
 	make
-	make install
+	sudo make install
 fi
 
+# TODO 
+# add skippy shortcut key
+# 
